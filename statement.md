@@ -1,1 +1,1 @@
-
+This project aims to develop a Typing Speed Test Web Application using Python and Streamlit. The application allows users to test and improve their typing skills by measuring their typing speed (WPM), accuracy, and total time taken. The system compares the user's typed text with a reference sentence and provides detailed feedback, including mistake highlighting, making it a practical and interactive productivity tool.
